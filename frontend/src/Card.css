@@ -1,0 +1,10 @@
+.pizza_image{
+    height: 400px;
+}
+.card{
+    width: 400px;
+}
+.blog_choise{
+    display: flex;
+    justify-content: space-between;
+}
