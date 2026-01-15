@@ -7,7 +7,10 @@ const Card = () => {
             <h3 className='pizza_name'>3 пиццы 35 см</h3>
             <p className='pescription'>Пикантная пепперони, увеличенная порция моцареллы, фирменный томатный соус</p>
             <div className='blog_choise'>
-                <p className='price'>1875 Руб.</p>
+                <div className='price_name'>
+                    <p className='price'>1875 Руб.</p>
+                    <p className='price'>1860 Руб.</p>
+                </div>
                 <button className='choise'>Выбрать</button>
             </div>
         </div>

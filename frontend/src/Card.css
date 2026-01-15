@@ -7,4 +7,10 @@
 .blog_choise{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.choise{
+    height: 35px;
+    border-radius: 10px;
 }
